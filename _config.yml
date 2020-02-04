@@ -2,3 +2,12 @@ theme: jekyll-theme-tactile
 
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
+
+
+title : Hangjian Li
+author :
+#  name : Karl Broman
+  email : kbroman@gmail.com
+  github : kbroman
+  twitter : kwbroman
+  feedburner : nil

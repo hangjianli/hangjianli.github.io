@@ -4,9 +4,9 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 highlighter: rouge
 
 
-title : Hangjian Li
+title : Home
 author :
-#  name : Karl Broman
+  name : Hangjian Li
   email : lihangjian123@ucla.edu
   github : hangjianli
   twitter : Hangjian Li

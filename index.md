@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Hangjian Li
+title: about
+description: Hangjian Li is a Ph.D candidate in statistics at UCLA
 ---

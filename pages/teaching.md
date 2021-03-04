@@ -1,1 +1,3 @@
 
+- STATS 20 - PROGRAMMING WITH R
+- 

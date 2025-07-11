@@ -22,7 +22,7 @@ repository               : "hangjianli/hangjianli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_2770.png"
+  avatar           : "IMG_2770.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

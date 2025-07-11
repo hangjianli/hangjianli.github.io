@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Too Lazy to Post"
 title_separator          : "-"
 name                     : &name "Hangjian Li"
-description              : &description ""
+description              : &description "test description"
 url                      : https://hangjianli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hangjianli/hangjianli.github.io"
@@ -22,7 +22,7 @@ repository               : "hangjianli/hangjianli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2770.png"
+  avatar           : "images/IMG_2770.png"
   name             : "Hangjian Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

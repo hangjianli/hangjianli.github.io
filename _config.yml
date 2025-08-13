@@ -24,11 +24,8 @@ author:
   # Biographic information
   avatar           : "hangjianli.jpeg"
   name             : "Hangjian Li"
-  pronouns         : # example: "she/her"  
-  bio              : "hangjian bio"
   location         : "Bellevue"
   employer         : "Walmart Global Tech"
-  uri              : # URL
   email            : "hangjian.li@walmart.com" 
 
   # Academic websites

@@ -8,9 +8,6 @@ tags:
   - NLP
 ---
 
-This is a placeholder for a blog post about BPE Tokenizer. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
-
-
 # Questions before we start
 
 - How are text represented in a computer?
